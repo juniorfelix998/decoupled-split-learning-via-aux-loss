@@ -8,13 +8,15 @@
 #SBATCH --gres=gpu:1
 #SBATCH --output=%x-%A.out
 #SBATCH --error=%x-%A.err
+
 # Activate conda
 source /usr/local/anaconda3/etc/profile.d/conda.sh
+
 # Activate environment
 conda activate venv
 
-
-# Run command
+# Run command - use the venv's python, NOT the hardcoded anaconda base python
 srun --exclusive -n1 \
-/usr/local/anaconda3/bin/python -u jan6tiny/dgl.py \
+python -u jan6tiny/dgl.py
+
 echo "All dgl/standard_split on cifar10 RUNS COMPLETED."
