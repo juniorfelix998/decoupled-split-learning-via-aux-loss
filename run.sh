@@ -15,6 +15,8 @@ source /usr/local/anaconda3/etc/profile.d/conda.sh
 # Activate environment
 conda activate venv
 
+cd jan6tiny
+
 # Run command - use the venv's python, NOT the hardcoded anaconda base python
 srun --exclusive -n1 \
 python -u jan6tiny/dgl.py
