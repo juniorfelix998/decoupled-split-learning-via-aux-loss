@@ -19,6 +19,6 @@ cd jan6tiny
 
 # Run command - use the venv's python, NOT the hardcoded anaconda base python
 srun --exclusive -n1 \
-python -u jan6tiny/dgl.py
+python -u dgl.py
 
 echo "All dgl/standard_split on cifar10 RUNS COMPLETED."
