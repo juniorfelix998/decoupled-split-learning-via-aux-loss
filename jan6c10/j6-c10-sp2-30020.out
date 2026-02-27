@@ -1,0 +1,335 @@
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data/cifar-10-python.tar.gz
+Extracting ./data/cifar-10-python.tar.gz to ./data
+Files already downloaded and verified
+Dataset: Cifar 10 | Images/Client: 5000
+
+--- Starting DGL | Clients: 10 | Splits: 2 ---
+[DGL_1_10] Epoch 1 | Train: 33.5% | Test: 45.5% | Time: 32.7s | GPU: 761MB
+[DGL_1_10] Epoch 2 | Train: 45.6% | Test: 48.2% | Time: 29.8s | GPU: 761MB
+[DGL_1_10] Epoch 3 | Train: 52.7% | Test: 53.1% | Time: 30.5s | GPU: 761MB
+[DGL_1_10] Epoch 4 | Train: 57.9% | Test: 60.7% | Time: 30.1s | GPU: 761MB
+[DGL_1_10] Epoch 5 | Train: 61.3% | Test: 56.4% | Time: 30.8s | GPU: 761MB
+[DGL_1_10] Epoch 6 | Train: 65.1% | Test: 66.6% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 7 | Train: 67.1% | Test: 67.8% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 8 | Train: 69.1% | Test: 67.0% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 9 | Train: 70.8% | Test: 69.1% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 10 | Train: 73.0% | Test: 72.5% | Time: 30.3s | GPU: 761MB
+[DGL_1_10] Epoch 11 | Train: 74.2% | Test: 69.4% | Time: 31.1s | GPU: 761MB
+[DGL_1_10] Epoch 12 | Train: 74.7% | Test: 73.9% | Time: 30.2s | GPU: 761MB
+[DGL_1_10] Epoch 13 | Train: 75.6% | Test: 74.8% | Time: 30.8s | GPU: 761MB
+[DGL_1_10] Epoch 14 | Train: 76.5% | Test: 76.0% | Time: 31.0s | GPU: 761MB
+[DGL_1_10] Epoch 15 | Train: 77.6% | Test: 76.6% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 16 | Train: 78.3% | Test: 76.2% | Time: 31.3s | GPU: 761MB
+[DGL_1_10] Epoch 17 | Train: 78.5% | Test: 78.7% | Time: 30.7s | GPU: 761MB
+[DGL_1_10] Epoch 18 | Train: 79.6% | Test: 77.7% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 19 | Train: 79.9% | Test: 76.9% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 20 | Train: 80.7% | Test: 71.1% | Time: 30.3s | GPU: 761MB
+[DGL_1_10] Epoch 21 | Train: 81.0% | Test: 73.2% | Time: 31.2s | GPU: 761MB
+[DGL_1_10] Epoch 22 | Train: 81.3% | Test: 74.9% | Time: 30.7s | GPU: 761MB
+[DGL_1_10] Epoch 23 | Train: 82.0% | Test: 79.6% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 24 | Train: 82.4% | Test: 76.6% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 25 | Train: 82.6% | Test: 77.4% | Time: 31.1s | GPU: 761MB
+[DGL_1_10] Epoch 26 | Train: 83.2% | Test: 77.6% | Time: 30.1s | GPU: 761MB
+[DGL_1_10] Epoch 27 | Train: 83.5% | Test: 81.0% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 28 | Train: 84.1% | Test: 77.5% | Time: 30.1s | GPU: 761MB
+[DGL_1_10] Epoch 29 | Train: 83.6% | Test: 82.7% | Time: 30.1s | GPU: 761MB
+[DGL_1_10] Epoch 30 | Train: 84.4% | Test: 80.7% | Time: 30.2s | GPU: 761MB
+[DGL_1_10] Epoch 31 | Train: 84.5% | Test: 81.4% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 32 | Train: 84.7% | Test: 81.3% | Time: 30.7s | GPU: 761MB
+[DGL_1_10] Epoch 33 | Train: 85.9% | Test: 80.9% | Time: 30.5s | GPU: 761MB
+[DGL_1_10] Epoch 34 | Train: 85.2% | Test: 82.7% | Time: 30.7s | GPU: 761MB
+[DGL_1_10] Epoch 35 | Train: 85.5% | Test: 80.4% | Time: 30.3s | GPU: 761MB
+[DGL_1_10] Epoch 36 | Train: 85.7% | Test: 82.8% | Time: 30.9s | GPU: 761MB
+[DGL_1_10] Epoch 37 | Train: 86.1% | Test: 83.3% | Time: 30.3s | GPU: 761MB
+[DGL_1_10] Epoch 38 | Train: 85.9% | Test: 83.2% | Time: 30.2s | GPU: 761MB
+[DGL_1_10] Epoch 39 | Train: 86.4% | Test: 83.7% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 40 | Train: 86.4% | Test: 81.7% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 41 | Train: 87.0% | Test: 79.2% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 42 | Train: 86.8% | Test: 82.8% | Time: 31.0s | GPU: 761MB
+[DGL_1_10] Epoch 43 | Train: 87.6% | Test: 83.2% | Time: 30.9s | GPU: 761MB
+[DGL_1_10] Epoch 44 | Train: 87.5% | Test: 84.5% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 45 | Train: 87.7% | Test: 82.8% | Time: 30.6s | GPU: 761MB
+[DGL_1_10] Epoch 46 | Train: 87.8% | Test: 80.5% | Time: 30.7s | GPU: 761MB
+[DGL_1_10] Epoch 47 | Train: 88.4% | Test: 84.2% | Time: 30.2s | GPU: 761MB
+[DGL_1_10] Epoch 48 | Train: 88.4% | Test: 82.5% | Time: 30.4s | GPU: 761MB
+[DGL_1_10] Epoch 49 | Train: 88.6% | Test: 82.7% | Time: 30.3s | GPU: 761MB
+[DGL_1_10] Epoch 50 | Train: 88.7% | Test: 84.1% | Time: 30.7s | GPU: 761MB
+
+--- Starting Standard Split Learning | Clients: 10 ---
+[Std_1_10] Epoch 1 | Train: 32.7% | Test: 44.2% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 2 | Train: 46.5% | Test: 51.8% | Time: 26.5s | GPU: 1059MB
+[Std_1_10] Epoch 3 | Train: 53.1% | Test: 59.0% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 4 | Train: 59.3% | Test: 63.6% | Time: 26.7s | GPU: 1059MB
+[Std_1_10] Epoch 5 | Train: 62.6% | Test: 60.3% | Time: 27.2s | GPU: 1059MB
+[Std_1_10] Epoch 6 | Train: 65.5% | Test: 62.8% | Time: 27.5s | GPU: 1059MB
+[Std_1_10] Epoch 7 | Train: 68.2% | Test: 64.9% | Time: 27.4s | GPU: 1059MB
+[Std_1_10] Epoch 8 | Train: 70.4% | Test: 69.8% | Time: 27.2s | GPU: 1059MB
+[Std_1_10] Epoch 9 | Train: 72.2% | Test: 72.7% | Time: 27.1s | GPU: 1059MB
+[Std_1_10] Epoch 10 | Train: 73.7% | Test: 74.1% | Time: 26.6s | GPU: 1059MB
+[Std_1_10] Epoch 11 | Train: 75.2% | Test: 73.3% | Time: 26.5s | GPU: 1059MB
+[Std_1_10] Epoch 12 | Train: 76.5% | Test: 74.8% | Time: 26.7s | GPU: 1059MB
+[Std_1_10] Epoch 13 | Train: 77.6% | Test: 76.5% | Time: 26.7s | GPU: 1059MB
+[Std_1_10] Epoch 14 | Train: 78.2% | Test: 76.3% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 15 | Train: 79.3% | Test: 76.2% | Time: 26.7s | GPU: 1059MB
+[Std_1_10] Epoch 16 | Train: 80.1% | Test: 78.4% | Time: 26.7s | GPU: 1059MB
+[Std_1_10] Epoch 17 | Train: 80.3% | Test: 78.9% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 18 | Train: 81.3% | Test: 79.2% | Time: 27.3s | GPU: 1059MB
+[Std_1_10] Epoch 19 | Train: 82.0% | Test: 79.3% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 20 | Train: 82.6% | Test: 78.7% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 21 | Train: 82.8% | Test: 80.7% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 22 | Train: 83.4% | Test: 81.1% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 23 | Train: 83.8% | Test: 81.0% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 24 | Train: 84.0% | Test: 81.2% | Time: 27.2s | GPU: 1059MB
+[Std_1_10] Epoch 25 | Train: 84.6% | Test: 81.2% | Time: 26.5s | GPU: 1059MB
+[Std_1_10] Epoch 26 | Train: 84.6% | Test: 81.8% | Time: 26.5s | GPU: 1059MB
+[Std_1_10] Epoch 27 | Train: 84.8% | Test: 81.9% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 28 | Train: 86.1% | Test: 82.5% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 29 | Train: 86.3% | Test: 80.8% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 30 | Train: 86.1% | Test: 83.0% | Time: 27.5s | GPU: 1059MB
+[Std_1_10] Epoch 31 | Train: 86.3% | Test: 83.8% | Time: 27.4s | GPU: 1059MB
+[Std_1_10] Epoch 32 | Train: 87.5% | Test: 82.7% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 33 | Train: 87.3% | Test: 81.6% | Time: 27.1s | GPU: 1059MB
+[Std_1_10] Epoch 34 | Train: 87.1% | Test: 82.3% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 35 | Train: 87.3% | Test: 83.5% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 36 | Train: 87.7% | Test: 82.5% | Time: 27.5s | GPU: 1059MB
+[Std_1_10] Epoch 37 | Train: 88.2% | Test: 80.9% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 38 | Train: 88.5% | Test: 84.3% | Time: 26.6s | GPU: 1059MB
+[Std_1_10] Epoch 39 | Train: 88.6% | Test: 83.9% | Time: 27.2s | GPU: 1059MB
+[Std_1_10] Epoch 40 | Train: 89.0% | Test: 83.7% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 41 | Train: 88.5% | Test: 84.1% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 42 | Train: 89.3% | Test: 82.9% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 43 | Train: 89.5% | Test: 84.4% | Time: 26.6s | GPU: 1059MB
+[Std_1_10] Epoch 44 | Train: 90.3% | Test: 84.2% | Time: 26.6s | GPU: 1059MB
+[Std_1_10] Epoch 45 | Train: 89.2% | Test: 83.4% | Time: 27.4s | GPU: 1059MB
+[Std_1_10] Epoch 46 | Train: 90.3% | Test: 85.0% | Time: 27.0s | GPU: 1059MB
+[Std_1_10] Epoch 47 | Train: 89.9% | Test: 84.5% | Time: 26.8s | GPU: 1059MB
+[Std_1_10] Epoch 48 | Train: 90.3% | Test: 84.3% | Time: 26.9s | GPU: 1059MB
+[Std_1_10] Epoch 49 | Train: 90.8% | Test: 85.1% | Time: 26.3s | GPU: 1059MB
+[Std_1_10] Epoch 50 | Train: 90.5% | Test: 84.8% | Time: 27.3s | GPU: 1059MB
+Files already downloaded and verified
+Files already downloaded and verified
+Dataset: Cifar 10 | Images/Client: 10000
+
+--- Starting DGL | Clients: 5 | Splits: 2 ---
+[DGL_1_5] Epoch 1 | Train: 34.9% | Test: 43.3% | Time: 29.9s | GPU: 761MB
+[DGL_1_5] Epoch 2 | Train: 48.9% | Test: 53.6% | Time: 29.0s | GPU: 761MB
+[DGL_1_5] Epoch 3 | Train: 56.4% | Test: 55.5% | Time: 28.8s | GPU: 761MB
+[DGL_1_5] Epoch 4 | Train: 61.6% | Test: 56.2% | Time: 28.5s | GPU: 761MB
+[DGL_1_5] Epoch 5 | Train: 65.8% | Test: 63.9% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 6 | Train: 68.6% | Test: 70.1% | Time: 29.2s | GPU: 761MB
+[DGL_1_5] Epoch 7 | Train: 71.5% | Test: 66.7% | Time: 28.9s | GPU: 761MB
+[DGL_1_5] Epoch 8 | Train: 73.2% | Test: 68.9% | Time: 29.8s | GPU: 761MB
+[DGL_1_5] Epoch 9 | Train: 74.8% | Test: 68.6% | Time: 29.5s | GPU: 761MB
+[DGL_1_5] Epoch 10 | Train: 75.6% | Test: 69.6% | Time: 29.0s | GPU: 761MB
+[DGL_1_5] Epoch 11 | Train: 77.3% | Test: 74.6% | Time: 29.0s | GPU: 761MB
+[DGL_1_5] Epoch 12 | Train: 78.3% | Test: 75.5% | Time: 28.7s | GPU: 761MB
+[DGL_1_5] Epoch 13 | Train: 78.7% | Test: 73.3% | Time: 28.4s | GPU: 761MB
+[DGL_1_5] Epoch 14 | Train: 79.8% | Test: 69.8% | Time: 29.8s | GPU: 761MB
+[DGL_1_5] Epoch 15 | Train: 80.1% | Test: 72.2% | Time: 28.6s | GPU: 761MB
+[DGL_1_5] Epoch 16 | Train: 80.9% | Test: 77.9% | Time: 29.6s | GPU: 761MB
+[DGL_1_5] Epoch 17 | Train: 81.6% | Test: 75.4% | Time: 28.7s | GPU: 761MB
+[DGL_1_5] Epoch 18 | Train: 81.9% | Test: 78.3% | Time: 28.9s | GPU: 761MB
+[DGL_1_5] Epoch 19 | Train: 82.6% | Test: 79.2% | Time: 28.9s | GPU: 761MB
+[DGL_1_5] Epoch 20 | Train: 83.2% | Test: 79.8% | Time: 28.6s | GPU: 761MB
+[DGL_1_5] Epoch 21 | Train: 83.4% | Test: 79.2% | Time: 28.9s | GPU: 761MB
+[DGL_1_5] Epoch 22 | Train: 84.1% | Test: 80.9% | Time: 28.7s | GPU: 761MB
+[DGL_1_5] Epoch 23 | Train: 84.2% | Test: 78.7% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 24 | Train: 84.6% | Test: 80.6% | Time: 28.7s | GPU: 761MB
+[DGL_1_5] Epoch 25 | Train: 85.1% | Test: 80.5% | Time: 29.5s | GPU: 761MB
+[DGL_1_5] Epoch 26 | Train: 85.3% | Test: 83.4% | Time: 29.9s | GPU: 761MB
+[DGL_1_5] Epoch 27 | Train: 85.9% | Test: 80.9% | Time: 29.1s | GPU: 761MB
+[DGL_1_5] Epoch 28 | Train: 86.1% | Test: 82.5% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 29 | Train: 86.3% | Test: 80.2% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 30 | Train: 86.5% | Test: 79.7% | Time: 29.1s | GPU: 761MB
+[DGL_1_5] Epoch 31 | Train: 87.0% | Test: 80.1% | Time: 29.6s | GPU: 761MB
+[DGL_1_5] Epoch 32 | Train: 87.1% | Test: 84.4% | Time: 29.5s | GPU: 761MB
+[DGL_1_5] Epoch 33 | Train: 87.4% | Test: 83.1% | Time: 29.4s | GPU: 761MB
+[DGL_1_5] Epoch 34 | Train: 87.7% | Test: 81.2% | Time: 28.8s | GPU: 761MB
+[DGL_1_5] Epoch 35 | Train: 87.3% | Test: 83.2% | Time: 29.4s | GPU: 761MB
+[DGL_1_5] Epoch 36 | Train: 87.9% | Test: 82.2% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 37 | Train: 88.0% | Test: 82.4% | Time: 29.2s | GPU: 761MB
+[DGL_1_5] Epoch 38 | Train: 88.6% | Test: 81.7% | Time: 29.7s | GPU: 761MB
+[DGL_1_5] Epoch 39 | Train: 88.6% | Test: 82.6% | Time: 29.6s | GPU: 761MB
+[DGL_1_5] Epoch 40 | Train: 88.9% | Test: 83.9% | Time: 28.9s | GPU: 761MB
+[DGL_1_5] Epoch 41 | Train: 89.1% | Test: 83.8% | Time: 28.6s | GPU: 761MB
+[DGL_1_5] Epoch 42 | Train: 89.3% | Test: 84.8% | Time: 29.0s | GPU: 761MB
+[DGL_1_5] Epoch 43 | Train: 89.6% | Test: 86.5% | Time: 28.4s | GPU: 761MB
+[DGL_1_5] Epoch 44 | Train: 89.5% | Test: 83.4% | Time: 29.4s | GPU: 761MB
+[DGL_1_5] Epoch 45 | Train: 90.1% | Test: 83.6% | Time: 30.2s | GPU: 761MB
+[DGL_1_5] Epoch 46 | Train: 90.3% | Test: 83.6% | Time: 29.6s | GPU: 761MB
+[DGL_1_5] Epoch 47 | Train: 90.3% | Test: 85.2% | Time: 28.5s | GPU: 761MB
+[DGL_1_5] Epoch 48 | Train: 90.2% | Test: 84.8% | Time: 29.1s | GPU: 761MB
+[DGL_1_5] Epoch 49 | Train: 90.0% | Test: 83.2% | Time: 29.3s | GPU: 761MB
+[DGL_1_5] Epoch 50 | Train: 90.4% | Test: 80.1% | Time: 29.0s | GPU: 761MB
+
+--- Starting Standard Split Learning | Clients: 5 ---
+[Std_1_5] Epoch 1 | Train: 34.6% | Test: 42.0% | Time: 25.8s | GPU: 1059MB
+[Std_1_5] Epoch 2 | Train: 47.8% | Test: 54.0% | Time: 25.0s | GPU: 1059MB
+[Std_1_5] Epoch 3 | Train: 54.9% | Test: 56.2% | Time: 24.5s | GPU: 1059MB
+[Std_1_5] Epoch 4 | Train: 60.1% | Test: 58.6% | Time: 25.0s | GPU: 1059MB
+[Std_1_5] Epoch 5 | Train: 63.9% | Test: 65.1% | Time: 24.6s | GPU: 1059MB
+[Std_1_5] Epoch 6 | Train: 66.6% | Test: 66.8% | Time: 25.8s | GPU: 1059MB
+[Std_1_5] Epoch 7 | Train: 69.0% | Test: 68.0% | Time: 24.4s | GPU: 1059MB
+[Std_1_5] Epoch 8 | Train: 71.1% | Test: 70.4% | Time: 25.1s | GPU: 1059MB
+[Std_1_5] Epoch 9 | Train: 72.9% | Test: 70.7% | Time: 24.7s | GPU: 1059MB
+[Std_1_5] Epoch 10 | Train: 74.2% | Test: 74.1% | Time: 24.4s | GPU: 1059MB
+[Std_1_5] Epoch 11 | Train: 75.6% | Test: 72.6% | Time: 24.4s | GPU: 1059MB
+[Std_1_5] Epoch 12 | Train: 77.1% | Test: 75.7% | Time: 25.1s | GPU: 1059MB
+[Std_1_5] Epoch 13 | Train: 78.1% | Test: 69.4% | Time: 25.0s | GPU: 1059MB
+[Std_1_5] Epoch 14 | Train: 79.0% | Test: 75.7% | Time: 24.8s | GPU: 1059MB
+[Std_1_5] Epoch 15 | Train: 79.9% | Test: 74.2% | Time: 25.9s | GPU: 1059MB
+[Std_1_5] Epoch 16 | Train: 80.5% | Test: 75.6% | Time: 24.3s | GPU: 1059MB
+[Std_1_5] Epoch 17 | Train: 81.6% | Test: 76.0% | Time: 25.1s | GPU: 1059MB
+[Std_1_5] Epoch 18 | Train: 82.4% | Test: 77.9% | Time: 25.3s | GPU: 1059MB
+[Std_1_5] Epoch 19 | Train: 82.7% | Test: 78.1% | Time: 25.1s | GPU: 1059MB
+[Std_1_5] Epoch 20 | Train: 83.3% | Test: 79.2% | Time: 24.9s | GPU: 1059MB
+[Std_1_5] Epoch 21 | Train: 83.6% | Test: 78.8% | Time: 25.2s | GPU: 1059MB
+[Std_1_5] Epoch 22 | Train: 84.2% | Test: 80.2% | Time: 25.6s | GPU: 1059MB
+[Std_1_5] Epoch 23 | Train: 84.9% | Test: 80.7% | Time: 25.6s | GPU: 1059MB
+[Std_1_5] Epoch 24 | Train: 84.9% | Test: 79.3% | Time: 25.7s | GPU: 1059MB
+[Std_1_5] Epoch 25 | Train: 85.9% | Test: 79.4% | Time: 24.4s | GPU: 1059MB
+[Std_1_5] Epoch 26 | Train: 86.0% | Test: 80.3% | Time: 24.9s | GPU: 1059MB
+[Std_1_5] Epoch 27 | Train: 86.3% | Test: 79.8% | Time: 24.6s | GPU: 1059MB
+[Std_1_5] Epoch 28 | Train: 86.6% | Test: 81.6% | Time: 24.8s | GPU: 1059MB
+[Std_1_5] Epoch 29 | Train: 87.1% | Test: 81.4% | Time: 25.1s | GPU: 1059MB
+[Std_1_5] Epoch 30 | Train: 87.4% | Test: 82.0% | Time: 25.2s | GPU: 1059MB
+[Std_1_5] Epoch 31 | Train: 87.7% | Test: 83.2% | Time: 25.3s | GPU: 1059MB
+[Std_1_5] Epoch 32 | Train: 88.2% | Test: 81.4% | Time: 24.8s | GPU: 1059MB
+[Std_1_5] Epoch 33 | Train: 88.3% | Test: 83.3% | Time: 25.0s | GPU: 1059MB
+[Std_1_5] Epoch 34 | Train: 88.9% | Test: 82.9% | Time: 25.8s | GPU: 1059MB
+[Std_1_5] Epoch 35 | Train: 88.9% | Test: 82.3% | Time: 25.5s | GPU: 1059MB
+[Std_1_5] Epoch 36 | Train: 89.4% | Test: 84.0% | Time: 24.9s | GPU: 1059MB
+[Std_1_5] Epoch 37 | Train: 89.6% | Test: 80.7% | Time: 25.2s | GPU: 1059MB
+[Std_1_5] Epoch 38 | Train: 89.7% | Test: 83.1% | Time: 25.2s | GPU: 1059MB
+[Std_1_5] Epoch 39 | Train: 89.9% | Test: 82.9% | Time: 25.3s | GPU: 1059MB
+[Std_1_5] Epoch 40 | Train: 90.2% | Test: 83.9% | Time: 24.9s | GPU: 1059MB
+[Std_1_5] Epoch 41 | Train: 90.4% | Test: 83.6% | Time: 26.4s | GPU: 1059MB
+[Std_1_5] Epoch 42 | Train: 90.8% | Test: 83.9% | Time: 24.9s | GPU: 1059MB
+[Std_1_5] Epoch 43 | Train: 90.8% | Test: 82.9% | Time: 24.3s | GPU: 1059MB
+[Std_1_5] Epoch 44 | Train: 91.3% | Test: 84.2% | Time: 25.4s | GPU: 1059MB
+[Std_1_5] Epoch 45 | Train: 90.9% | Test: 80.1% | Time: 24.7s | GPU: 1059MB
+[Std_1_5] Epoch 46 | Train: 91.5% | Test: 83.8% | Time: 24.8s | GPU: 1059MB
+[Std_1_5] Epoch 47 | Train: 91.8% | Test: 81.7% | Time: 25.7s | GPU: 1059MB
+[Std_1_5] Epoch 48 | Train: 92.1% | Test: 83.2% | Time: 25.2s | GPU: 1059MB
+[Std_1_5] Epoch 49 | Train: 92.0% | Test: 84.3% | Time: 25.0s | GPU: 1059MB
+[Std_1_5] Epoch 50 | Train: 92.0% | Test: 83.9% | Time: 25.5s | GPU: 1059MB
+Files already downloaded and verified
+Files already downloaded and verified
+Dataset: Cifar 10 | Images/Client: 50000
+
+--- Starting DGL | Clients: 1 | Splits: 2 ---
+[DGL_1_1] Epoch 1 | Train: 33.3% | Test: 40.2% | Time: 27.8s | GPU: 761MB
+[DGL_1_1] Epoch 2 | Train: 48.9% | Test: 46.5% | Time: 26.9s | GPU: 761MB
+[DGL_1_1] Epoch 3 | Train: 56.9% | Test: 57.2% | Time: 27.9s | GPU: 761MB
+[DGL_1_1] Epoch 4 | Train: 61.8% | Test: 60.4% | Time: 26.9s | GPU: 761MB
+[DGL_1_1] Epoch 5 | Train: 66.1% | Test: 65.0% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 6 | Train: 68.9% | Test: 70.1% | Time: 27.3s | GPU: 761MB
+[DGL_1_1] Epoch 7 | Train: 71.4% | Test: 63.4% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 8 | Train: 73.1% | Test: 67.9% | Time: 26.7s | GPU: 761MB
+[DGL_1_1] Epoch 9 | Train: 74.8% | Test: 71.0% | Time: 26.8s | GPU: 761MB
+[DGL_1_1] Epoch 10 | Train: 75.9% | Test: 69.0% | Time: 29.3s | GPU: 761MB
+[DGL_1_1] Epoch 11 | Train: 77.1% | Test: 73.4% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 12 | Train: 78.1% | Test: 75.0% | Time: 27.3s | GPU: 761MB
+[DGL_1_1] Epoch 13 | Train: 78.9% | Test: 74.8% | Time: 28.1s | GPU: 761MB
+[DGL_1_1] Epoch 14 | Train: 79.7% | Test: 73.8% | Time: 27.2s | GPU: 761MB
+[DGL_1_1] Epoch 15 | Train: 80.3% | Test: 71.0% | Time: 27.2s | GPU: 761MB
+[DGL_1_1] Epoch 16 | Train: 80.6% | Test: 73.2% | Time: 29.5s | GPU: 761MB
+[DGL_1_1] Epoch 17 | Train: 81.6% | Test: 77.1% | Time: 27.1s | GPU: 761MB
+[DGL_1_1] Epoch 18 | Train: 82.2% | Test: 70.7% | Time: 27.3s | GPU: 761MB
+[DGL_1_1] Epoch 19 | Train: 82.8% | Test: 78.0% | Time: 27.2s | GPU: 761MB
+[DGL_1_1] Epoch 20 | Train: 83.3% | Test: 72.0% | Time: 26.8s | GPU: 761MB
+[DGL_1_1] Epoch 21 | Train: 83.7% | Test: 74.8% | Time: 27.7s | GPU: 761MB
+[DGL_1_1] Epoch 22 | Train: 84.1% | Test: 77.8% | Time: 26.9s | GPU: 761MB
+[DGL_1_1] Epoch 23 | Train: 84.4% | Test: 78.1% | Time: 27.5s | GPU: 761MB
+[DGL_1_1] Epoch 24 | Train: 84.9% | Test: 77.0% | Time: 28.6s | GPU: 761MB
+[DGL_1_1] Epoch 25 | Train: 85.2% | Test: 77.4% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 26 | Train: 85.6% | Test: 74.4% | Time: 28.0s | GPU: 761MB
+[DGL_1_1] Epoch 27 | Train: 85.8% | Test: 76.7% | Time: 29.0s | GPU: 761MB
+[DGL_1_1] Epoch 28 | Train: 86.2% | Test: 79.6% | Time: 28.3s | GPU: 761MB
+[DGL_1_1] Epoch 29 | Train: 86.4% | Test: 80.8% | Time: 27.2s | GPU: 761MB
+[DGL_1_1] Epoch 30 | Train: 86.7% | Test: 81.2% | Time: 26.8s | GPU: 761MB
+[DGL_1_1] Epoch 31 | Train: 87.1% | Test: 80.6% | Time: 29.6s | GPU: 761MB
+[DGL_1_1] Epoch 32 | Train: 87.3% | Test: 81.5% | Time: 27.3s | GPU: 761MB
+[DGL_1_1] Epoch 33 | Train: 87.7% | Test: 80.2% | Time: 27.8s | GPU: 761MB
+[DGL_1_1] Epoch 34 | Train: 87.8% | Test: 81.6% | Time: 29.7s | GPU: 761MB
+[DGL_1_1] Epoch 35 | Train: 88.0% | Test: 81.2% | Time: 27.1s | GPU: 761MB
+[DGL_1_1] Epoch 36 | Train: 88.5% | Test: 82.3% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 37 | Train: 88.4% | Test: 80.1% | Time: 27.1s | GPU: 761MB
+[DGL_1_1] Epoch 38 | Train: 88.5% | Test: 80.7% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 39 | Train: 89.1% | Test: 80.4% | Time: 26.9s | GPU: 761MB
+[DGL_1_1] Epoch 40 | Train: 89.1% | Test: 78.8% | Time: 27.4s | GPU: 761MB
+[DGL_1_1] Epoch 41 | Train: 89.5% | Test: 81.5% | Time: 29.4s | GPU: 761MB
+[DGL_1_1] Epoch 42 | Train: 89.5% | Test: 80.9% | Time: 27.3s | GPU: 761MB
+[DGL_1_1] Epoch 43 | Train: 89.7% | Test: 82.7% | Time: 28.1s | GPU: 761MB
+[DGL_1_1] Epoch 44 | Train: 89.8% | Test: 80.4% | Time: 27.0s | GPU: 761MB
+[DGL_1_1] Epoch 45 | Train: 90.2% | Test: 77.6% | Time: 27.1s | GPU: 761MB
+[DGL_1_1] Epoch 46 | Train: 90.2% | Test: 80.5% | Time: 27.6s | GPU: 761MB
+[DGL_1_1] Epoch 47 | Train: 90.4% | Test: 84.1% | Time: 27.6s | GPU: 761MB
+[DGL_1_1] Epoch 48 | Train: 90.8% | Test: 81.6% | Time: 28.6s | GPU: 761MB
+[DGL_1_1] Epoch 49 | Train: 90.7% | Test: 82.7% | Time: 28.0s | GPU: 761MB
+[DGL_1_1] Epoch 50 | Train: 90.8% | Test: 85.1% | Time: 27.8s | GPU: 761MB
+
+--- Starting Standard Split Learning | Clients: 1 ---
+[Std_1_1] Epoch 1 | Train: 32.7% | Test: 45.3% | Time: 24.6s | GPU: 1059MB
+[Std_1_1] Epoch 2 | Train: 48.0% | Test: 54.3% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 3 | Train: 55.5% | Test: 57.5% | Time: 25.5s | GPU: 1059MB
+[Std_1_1] Epoch 4 | Train: 60.7% | Test: 59.9% | Time: 24.1s | GPU: 1059MB
+[Std_1_1] Epoch 5 | Train: 64.7% | Test: 64.0% | Time: 23.5s | GPU: 1059MB
+[Std_1_1] Epoch 6 | Train: 67.3% | Test: 67.8% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 7 | Train: 69.7% | Test: 68.7% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 8 | Train: 71.5% | Test: 68.8% | Time: 23.6s | GPU: 1059MB
+[Std_1_1] Epoch 9 | Train: 73.3% | Test: 72.7% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 10 | Train: 74.8% | Test: 74.4% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 11 | Train: 76.2% | Test: 73.1% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 12 | Train: 77.7% | Test: 73.1% | Time: 23.6s | GPU: 1059MB
+[Std_1_1] Epoch 13 | Train: 78.6% | Test: 72.9% | Time: 23.6s | GPU: 1059MB
+[Std_1_1] Epoch 14 | Train: 79.2% | Test: 73.1% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 15 | Train: 80.3% | Test: 76.6% | Time: 26.1s | GPU: 1059MB
+[Std_1_1] Epoch 16 | Train: 81.5% | Test: 76.6% | Time: 25.1s | GPU: 1059MB
+[Std_1_1] Epoch 17 | Train: 81.8% | Test: 75.7% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 18 | Train: 82.4% | Test: 80.5% | Time: 23.6s | GPU: 1059MB
+[Std_1_1] Epoch 19 | Train: 83.1% | Test: 76.2% | Time: 24.0s | GPU: 1059MB
+[Std_1_1] Epoch 20 | Train: 83.4% | Test: 79.0% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 21 | Train: 84.4% | Test: 79.3% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 22 | Train: 84.8% | Test: 80.1% | Time: 25.1s | GPU: 1059MB
+[Std_1_1] Epoch 23 | Train: 85.4% | Test: 82.0% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 24 | Train: 85.8% | Test: 79.3% | Time: 25.9s | GPU: 1059MB
+[Std_1_1] Epoch 25 | Train: 86.1% | Test: 80.0% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 26 | Train: 86.5% | Test: 82.1% | Time: 24.0s | GPU: 1059MB
+[Std_1_1] Epoch 27 | Train: 86.7% | Test: 82.3% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 28 | Train: 87.3% | Test: 81.8% | Time: 23.5s | GPU: 1059MB
+[Std_1_1] Epoch 29 | Train: 87.5% | Test: 82.5% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 30 | Train: 88.3% | Test: 83.5% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 31 | Train: 88.3% | Test: 81.9% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 32 | Train: 88.6% | Test: 79.7% | Time: 23.5s | GPU: 1059MB
+[Std_1_1] Epoch 33 | Train: 88.8% | Test: 81.6% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 34 | Train: 89.2% | Test: 83.5% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 35 | Train: 89.5% | Test: 82.6% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 36 | Train: 89.8% | Test: 82.1% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 37 | Train: 90.0% | Test: 82.2% | Time: 23.7s | GPU: 1059MB
+[Std_1_1] Epoch 38 | Train: 90.2% | Test: 80.0% | Time: 23.9s | GPU: 1059MB
+[Std_1_1] Epoch 39 | Train: 90.4% | Test: 80.7% | Time: 25.2s | GPU: 1059MB
+[Std_1_1] Epoch 40 | Train: 90.9% | Test: 84.5% | Time: 23.8s | GPU: 1059MB
+[Std_1_1] Epoch 41 | Train: 90.9% | Test: 83.7% | Time: 24.2s | GPU: 1059MB
+[Std_1_1] Epoch 42 | Train: 91.0% | Test: 81.9% | Time: 23.6s | GPU: 1059MB
+[Std_1_1] Epoch 43 | Train: 91.4% | Test: 84.0% | Time: 24.0s | GPU: 1059MB
+[Std_1_1] Epoch 44 | Train: 91.5% | Test: 82.9% | Time: 23.5s | GPU: 1059MB
+[Std_1_1] Epoch 45 | Train: 91.8% | Test: 82.5% | Time: 24.0s | GPU: 1059MB
+[Std_1_1] Epoch 46 | Train: 91.9% | Test: 83.4% | Time: 24.8s | GPU: 1059MB
+[Std_1_1] Epoch 47 | Train: 92.2% | Test: 83.0% | Time: 26.6s | GPU: 1059MB
+[Std_1_1] Epoch 48 | Train: 92.4% | Test: 83.1% | Time: 25.7s | GPU: 1059MB
+[Std_1_1] Epoch 49 | Train: 92.6% | Test: 84.1% | Time: 25.5s | GPU: 1059MB
+[Std_1_1] Epoch 50 | Train: 92.7% | Test: 81.4% | Time: 24.3s | GPU: 1059MB
+
+Training completed. Generating Visualizations and Tables...
+
+--- Experiment Summary Table ---
+          Peak Train Acc (%)  Peak Test Acc (%)  Peak Mem (MB)  Total Time (s)  Avg Client Fwd (s)  Avg Client Bwd (s)  Avg Server Fwd (s)  Avg Server Bwd (s)  Avg Comm/Overhead (s)
+Scenario                                                                                                                                                                             
+DGL_1_1               90.796              85.12         761.08       1380.7112            6.466064            6.466064            6.416304            6.416304               1.849472
+DGL_1_10              88.672              84.45         761.08       1529.6887            6.581520            6.581520            6.492322            6.492322               4.446110
+DGL_1_5               90.438              86.47         761.08       1457.5143            6.594364            6.594364            6.464906            6.464906               3.031754
+Std_1_1               92.686              84.48        1059.16       1208.3762            3.920804            8.418632            4.256136            5.624432               1.947520
+Std_1_10              90.848              85.06        1059.16       1346.4297            3.961780            8.396032            4.254430            5.747952               4.568410
+Std_1_5               92.056              84.35        1059.16       1253.5975            3.844866            8.283876            4.185194            5.688224               3.069784
+Done. Check 'logs/' folder.
