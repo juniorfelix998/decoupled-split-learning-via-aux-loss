@@ -13,7 +13,7 @@ source /usr/local/anaconda3/etc/profile.d/conda.sh
 # Activate environment
 conda activate venv
 
-export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
+
 # Run command
 srun --exclusive -n1 \
 /usr/local/anaconda3/bin/python -u jan6tiny/dgl.py \
